@@ -1,3 +1,4 @@
+# coding=utf-8
 import os
 dir = os.getcwd()
 subdir = os.listdir(dir)
